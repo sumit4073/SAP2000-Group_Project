@@ -14,6 +14,6 @@ Grade of concrete : M30; <br />
 Live load on roof : 1.5 kPa; <br />
 Live load on floor : 3 kPa; <br />
 Load combinations : (a) 1.5 DL + 1.5 LL, (b) 1.2 DL + 1.2 LL + 1.2 HL (DL, LL and HL are the dead load, live load and the horizontal load) <br />
-We had to model the entire building in SAP2000 by 
-(i) considering beams and columns as frame members and 
+We had to model the entire building in SAP2000 by <br />
+(i) considering beams and columns as frame members and <br />
 (ii) considering only the load distribution from slabs (do not model the slabs, assign rigid diaphragm constraint for the in-plane stiffness of the slabs).
