@@ -3,6 +3,7 @@ Model and Analysis of RC frame building in SAP 2000 in a group of 3 students
 
 Modelling and analysis an 8-storeyed moment-resistant reinforced concrete building frame (without any brick masonry wall) on rocky ground condition.
 The building has the following details:
+gg
 Floor-to-floor height : 3.2 m 
 Height of foundation storey : 3.2 m 
 Thickness of floor slabs and roof slab : 115 mm 
