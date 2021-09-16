@@ -1,0 +1,73 @@
+
+
+ SAP2000 v20.2.0 Ultimate 64-bit (Analysis Build 9663/64)
+ File: D:\Semesters\SEM 5\CE30...\project\y direction\CE302 PROJECT-GRP-2 Fy.LOG
+
+
+
+
+ B E G I N   A N A L Y S I S                                2019/09/01  06:39:16
+
+
+ RUNNING ANALYSIS WITHIN THE GUI PROCESS
+ USING THE ADVANCED SOLVER (PROVIDES LIMITED INSTABILITY INFORMATION)
+
+ NUMBER OF JOINTS                          =         160
+    WITH RESTRAINTS                        =          16
+ NUMBER OF FRAME/CABLE/TENDON ELEMENTS     =         351
+ NUMBER OF CONSTRAINTS/WELDS               =           8
+ NUMBER OF LOAD PATTERNS                   =           3
+ NUMBER OF ACCELERATION LOADS              =           9
+ NUMBER OF LOAD CASES                      =           3
+
+ ADDRESSABLE PHYSICAL MEMORY (RAM)         =       7.898 GB
+
+ PARALLELIZATION OF ANALYSIS OPERATIONS:
+ (Env. variable SAPFIRE_NUM_THREADS        =           0)
+ NUMBER OF THREADS: STATE (AUTOMATIC)      =           2
+ NUMBER OF THREADS: STIFFNESS (AUTOMATIC)  =           2
+ NUMBER OF THREADS: EVENT (AUTOMATIC)      =           2
+ NUMBER OF THREADS: MOVE (AUTOMATIC)       =           2
+ NUMBER OF THREADS: RESPONSE (AUTOMATIC)   =           2
+ NUMBER OF THREADS: SOLVE (AUTOMATIC)      =           2
+ NUMBER OF THREADS: FORM (AUTOMATIC)       =           2
+
+
+ E L E M E N T   F O R M A T I O N                                      06:39:17
+
+
+ NUMBER OF COUPLED CONSTRAINT EQUATIONS    =           0
+
+
+ L I N E A R   E Q U A T I O N   S O L U T I O N                        06:39:17
+
+ FORMING STIFFNESS AT ZERO (UNSTRESSED) INITIAL CONDITIONS
+
+ TOTAL NUMBER OF EQUILIBRIUM EQUATIONS     =         456
+ NUMBER OF NON-ZERO STIFFNESS TERMS        =        7302
+
+ ---------------------------------
+ BASIC STABILITY CHECK FOR LINEAR LOAD CASES:
+    NUMBER OF NEGATIVE STIFFNESS EIGENVALUES SHOULD BE ZERO FOR STABILITY.
+    (NOTE: FURTHER CHECKS SHOULD BE CONSIDERED AS DEEMED NECESSARY,
+     SUCH AS REVIEWING EIGEN MODES FOR MECHANISMS AND RIGID-BODY MOTION)
+
+    NUMBER OF NEGATIVE EIGENVALUES         =           0,  OK.
+ ---------------------------------
+
+
+ L I N E A R   S T A T I C   C A S E S                                  06:39:17
+
+ USING STIFFNESS AT ZERO (UNSTRESSED) INITIAL CONDITIONS
+
+ TOTAL NUMBER OF CASES TO SOLVE            =           3
+ NUMBER OF CASES TO SOLVE PER BLOCK        =           3
+
+ LINEAR STATIC CASES TO BE SOLVED:
+
+ CASE: DEAD
+ CASE: LIVE
+ CASE: HL
+
+
+ A N A L Y S I S   C O M P L E T E                          2019/09/01  06:39:17
